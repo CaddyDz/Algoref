@@ -18,4 +18,3 @@ def dup(nums):
 	return ptr1
 
 print(dup(array))
-
